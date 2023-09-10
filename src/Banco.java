@@ -19,6 +19,5 @@ public class Banco {
         } else {
             this.saldo -= retiro;
         }
-
     }
 }
